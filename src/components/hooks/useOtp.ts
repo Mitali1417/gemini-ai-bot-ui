@@ -3,7 +3,7 @@ import { sendOtp, verifyOtp } from '../services/api';
 
 export function useSendOtp() {
   return useMutation({
-    mutationFn: ({ phone, country }: { phone: string; country: string }) => sendOtp(phone, country),
+    mutationFn: () => sendOtp(),
   });
 }
 

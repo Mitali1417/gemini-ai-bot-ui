@@ -37,7 +37,7 @@ const OtpForm: React.FC<OtpFormProps> = ({ onSubmit, onResend, loading, resendTi
   };
 
   const handleResend = () => {
-    sendOtpMutation.mutate({ phone: '', country: '' }, {
+    sendOtpMutation.mutate(undefined, {
       onSuccess: () => onResend(),
     });
   };
