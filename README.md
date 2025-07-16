@@ -95,6 +95,11 @@ The app will be available at [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 📜 License
+<img width="1918" height="895" alt="image" src="https://github.com/user-attachments/assets/6674aa83-d42c-4ce0-bf2a-114f3b118e73" />
+<img width="1920" height="883" alt="image" src="https://github.com/user-attachments/assets/66c2ff46-78bc-4051-8ecd-21c8e633224a" />
+<img width="1916" height="875" alt="image" src="https://github.com/user-attachments/assets/5e378ac8-a1a9-4376-b529-02e3450c7f7a" />
+<img width="1918" height="891" alt="image" src="https://github.com/user-attachments/assets/82066fba-e732-4f8d-a97f-93bb3d598084" />
+<img width="1918" height="905" alt="image" src="https://github.com/user-attachments/assets/f6d36452-ec92-4ad0-9e59-ff1d9a424a4a" />
+<img width="1220" height="907" alt="image" src="https://github.com/user-attachments/assets/34fa5716-8832-44a5-a4da-887a7733a967" />
+<img width="1216" height="902" alt="image" src="https://github.com/user-attachments/assets/983634ed-cf94-4d40-95dd-9a0e19cfdf29" />
 
-MIT
